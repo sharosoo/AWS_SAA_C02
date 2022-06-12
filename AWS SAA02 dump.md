@@ -1146,3 +1146,19 @@ What recommendations should the solutions architect make?
 - B. Configure an object-created event notification within the S3 bucket to invoke an AWS Lambda function to process the files.
 - C. Configure Amazon Kinesis Data Streams to process and send data to Amazon S3. Invoke an AWS Lambda function to process the files.
 - D. Configure an Amazon Simple Notification Service (Amazon SNS) topic to process the files uploaded to Amazon S3. Invoke an AWS Lambda function to process the files.
+
+**Answer** B
+
+### **511**
+A solutions architect must verify that any volumes recovered from unencrypted EBS snapshots are encrypted.
+
+What is the solution architect's role in achieving this?
+
+- A. Enable EBS encryption by default for the AWS Region.
+- B. Enable EBS encryption by default for the specific volumes.
+- C. Create a new volume and specify the symmetric customer master key (CMK) to use for encryption.
+- D. Create a new volume and specify the asymmetric customer master key (CMK) to use for encryption.
+
+**Answer** A
+**Explain**
+EBS Encrpyion is regional property
