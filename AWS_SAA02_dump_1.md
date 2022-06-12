@@ -1160,5 +1160,6 @@ What is the solution architect's role in achieving this?
 - D. Create a new volume and specify the asymmetric customer master key (CMK) to use for encryption.
 
 **Answer** A
+
 **Explain**
 EBS Encrpyion is regional property
