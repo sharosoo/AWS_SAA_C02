@@ -43,7 +43,9 @@ Which solution will satisfy this criterion?
 
 **Explain** 
 
-After you set up cross-Region replication (CRR) or same-Region replication (SRR) on the source bucket, Amazon S3 automatically and asynchronously replicates new objects from the source bucket to the destination bucket. You can choose to filter which objects are replicated using a prefix or tag. For more information on configuring replication and specifying a filter, see Replication configuration overview. After replication is configured, only new objects are replicated to the destination bucket. Existing objects aren't replicated to the destination bucket. For more information, see Replicating existing objects.
+B. By S3 console, object size should be smaller than 5GB
+
+D. CRR must be enabled before copying.
 
 ### **571**
 
