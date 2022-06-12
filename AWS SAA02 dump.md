@@ -39,7 +39,7 @@ Which solution will satisfy this criterion?
 - C. Use S3 Transfer Acceleration and the S3 copy-object command to copy the data from the source S3 bucket to the target S3 bucket.
 - D. Add an S3 Cross-Region Replication configuration to copy the data from the source S3 bucket to the target S3 bucket.
 
-**Answer** D
+**Answer** C
 
 **Explain** 
 
